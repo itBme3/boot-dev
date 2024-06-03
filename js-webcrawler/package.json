@@ -1,0 +1,10 @@
+{
+  "name": "js-webcrawler",
+  "version": "1.0.0",
+  "description": "learnings from boot.dev",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "itBme3"
+}
